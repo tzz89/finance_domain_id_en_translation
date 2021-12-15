@@ -22,7 +22,7 @@ Click on picture to get higher resolution images
 ### Original extractor repository
 https://github.com/tzz89/bahasa_en_pdf_extraction
 
-### Weights and bias 
+## Weights and bias 
 Training loss and validation bleu score
 https://wandb.ai/zuozhe/marianMT_finance_translation/reports/Domain-Specific-Translation--VmlldzoxMzQ0NzM3?accessToken=k710xrdqjnrzeo0hhx1vups0nwfxry23fpfvk3ubi1tvr9mulvmxad2s15kts5g8
 
