@@ -4,7 +4,7 @@ This repository contains the training script for finetuning marianMT model. For 
 ## Demo app
 https://huggingface.co/spaces/wolfrage89/finance_domain_translation_marianMT
 <p align="center">
-<img src="assets\domain_translation_hf_spaces.JPG" height="370px" width="370px">
+<img src="assets\domain_translation_hf_spaces.JPG" height="270px" width="470px">
 </p>
 
 
